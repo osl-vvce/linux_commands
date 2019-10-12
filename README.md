@@ -1,5 +1,9 @@
 # linux_commands
-##List of linux commands
+## List of linux commands
 
 
-* ls : ls with no option list files and directories in bare format where we won’t be able to view details like file types, size, modified date and time, permission and links etc.
+1. **ls** : ls with no option list files and directories in bare format where we won’t be able to view details like file types, size, modified date and time, permission and links etc.
+
+
+## Contrubution
+List the linux commands.YOu have to add only one command for one pull request.
